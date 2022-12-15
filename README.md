@@ -1,2 +1,2 @@
 # CASAVA
-CRISPR Anchor Screen Analysis Viewer App
+CRISPR Anchor Screen Analysis Viewer Application
