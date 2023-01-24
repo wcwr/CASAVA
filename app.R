@@ -1,6 +1,5 @@
-#Change slider to shinywidgets?
-
 #A GUI tool to nominate drug combinations from CRISPR+drug screens and other external resources
+#charlie.wright@stjude.org | @biowright
 
 #Load libraries
 library(shiny)
